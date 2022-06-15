@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\06-ParImpar\06-ParImpar\bin\Debug\06-ParImpar.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\06-ParImpar\06-ParImpar\bin\Debug\06-ParImpar.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\06-ParImpar\06-ParImpar\obj\Debug\06-ParImpar.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\06-ParImpar\06-ParImpar\obj\Debug\06-ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\06-ParImpar\06-ParImpar\obj\Debug\06-ParImpar.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\06-ParImpar\06-ParImpar\obj\Debug\06-ParImpar.pdb
